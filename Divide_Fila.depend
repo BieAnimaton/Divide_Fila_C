@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651593776 source:c:\users\bie_animation\onedrive\desktop\importants\eep\estrutura de dados\3 - estruturas de dados com políticas\exercícios\divide_fila\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
